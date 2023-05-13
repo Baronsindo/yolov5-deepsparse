@@ -2,7 +2,7 @@
 ![image](https://dicksonneoh.com/images/portfolio/supercharging_yolov5/post_image.png)
 
 Companion repo for the [blogpost](https://dicksonneoh.com/portfolio/supercharging_yolov5_180_fps_cpu/).
-
+   
 
 # ❤️ Support Me
 If you like what you see, support me in keeping the lights on to produce more posts like this.
